@@ -6,11 +6,14 @@ This is an application I created to function as a tech blog. It was made as an a
 
 ## Installation
 
-Visit deployed application at :
+Visit deployed application at : https://jrsevi-tech-blog-ca19275ec564.herokuapp.com/
 
 ## Usage
 
 Log in, create a new post, or look at posts made previously.
+
+<img src="/assets/Screenshot 2024-05-05 114359.png">
+<img src="/assets/Screenshot 2024-05-05 114503.png">
 
 ## Contributing
 
